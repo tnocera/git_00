@@ -1,0 +1,53 @@
+---
+title: "git_00"
+author: "Math_115"
+date: "Spring semester"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Build a Poem with a sequence of commits to the master branch.
+Our project will be done using several commits to the master branch.
+<!-- Do not modify or change any text in "!--" bracketed areas such as this --- these are instructions to
+you, if you change any of this the git program will notice it and compromise your git merging strategy !-->
+
+## First Verse 
+<!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+
+"You are old, father William," the young man said,  
+"And your hair has become very white;  
+And yet you incessantly stand on your head --  
+Do you think, at your age, it is right?  
+
+
+## Second Verse
+<!--Put the first five lines of a poem by Robert Frost here!-->
+
+''The kind of Unitarian 
+Who having by elimination got  
+From many gods to Three, and Three to One,  
+Thinks why not taper off to none at all.''  
+
+## Third Verse
+<!--Put the first two verses of The Walrus and the Carpenter here!-->
+
+The sea was wet as wet could be,  
+   The sands were dry as dry.  
+You could not see a cloud because  
+   No cloud was in the sky:  
+No birds were flying overhead—  
+   There were no birds to fly.  
+
+
+## Last Verse
+<!--Put a short poem of your choice 8-20 lines,here!-->
+
+
+Oh, it should be possible  
+to explain the laws of physics  
+to a barmaid! . . .  
+but how could she ever,  
+in a million years,  
+explain love to an Einstein?  
